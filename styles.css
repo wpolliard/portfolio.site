@@ -1,0 +1,90 @@
+body {
+  font-family: raleway;
+  color: #3c3c3c;
+  
+}
+
+.lead {
+  display: inline-block;
+  font-size: 1.5em;
+  font-weight: 600;
+  margin-bottom: 0;
+  padding: 0;
+  color: #fff;
+}
+
+h1 {
+  display: inline-block;
+  font-size: 4em;
+  padding-left: .5em;
+  padding-right: .5em;
+  font-weight: 600;
+  color: #fff;
+  margin-top: 0;
+}
+.job {
+  color: #37c;
+  padding-bottom: .1em;
+}
+.position { 
+  color: #5e9516;
+  margin-bottom: .1em;
+}
+.location {
+  font-style: italic;
+  padding-bottom: .25em;
+}
+.jumbotron {
+  background: url('http://www.bluleadz.com/hubfs/images/halftonebg.png');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  padding: 10em 0;
+  background-color: #3ea9f5;
+}
+.upto {
+  margin-bottom: 2em;
+}
+.round-photo {
+  border-radius: 15%;
+  padding-bottom: 1.5em;
+}
+.will {
+  padding-bottom: 1.5em;
+}
+.list-inline {
+  text-align: center;
+  padding-top: 2em;
+}
+.list-inline li {
+  display: inline-block;
+}
+ .fa {
+  padding: 10px;
+   color: #37c;
+}
+.fa:hover {
+  color: #fff;
+  background-color: #37c;
+  border-bottom: 2px solid #3c3c3c;
+}
+
+h3 {
+  display: inline-block;
+  padding-bottom: .5em;
+  border-bottom: 5px solid #3c3c3c;
+}
+
+.card-block {
+  border: 1px solid #3c3c3c;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.footer {
+  margin-top: 2em;
+  border-top: 2px solid #3c3c3c;
+}
